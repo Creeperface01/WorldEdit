@@ -1,9 +1,9 @@
 normal blocks (chest, furace)
 
-> 2 -> 5
-> 5 -> 3
-> 3 -> 4
-> 4 -> 2
+        2 -> 5
+        5 -> 3
+        3 -> 4
+        4 -> 2
 
 stairs:
 
