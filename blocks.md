@@ -1,10 +1,12 @@
 normal blocks (chest, furace)
+
 > 2 -> 5
 > 5 -> 3
 > 3 -> 4
 > 4 -> 2
 
 stairs:
+
         normal:
                 1 -> 3
                 3 -> 0
@@ -17,12 +19,14 @@ stairs:
                 4 -> 6
 
 fence_gates:
+
         0 -> 1
         1 -> 2
         2 -> 3
         3 -> 0
         
 doors_down:
+
         closed:
                 0 -> 1
                 1 -> 2
@@ -35,17 +39,20 @@ doors_down:
                 7 -> 4
         
 sign:
+
         before + 4 (max 15)
         
 skulls: BE
 
 torches:
+
         2 -> 4
         4 -> 1
         1 -> 3
         3 -> 2
         
 lever:
+
         2 -> 4
         4 -> 1
         1 -> 3
@@ -69,6 +76,7 @@ lever:
         8 -> 15
         
 bed:
+
         0 -> 1
         1 -> 2
         2 -> 3
@@ -80,6 +88,7 @@ bed:
         11 -> 8
         
 repeater:
+
         0 -> 1
         1 -> 2
         2 -> 3
